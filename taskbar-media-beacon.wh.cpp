@@ -13,6 +13,8 @@
 /*
 # Taskbar Media Beacon
 
+![Taskbar Media Beacon](https://raw.githubusercontent.com/jihedkdiss/Windhawk-Mods/refs/heads/main/taskbar-media-beacon.png)
+
 Taskbar Media Beacon is a compact now-playing widget that blends into the
 Windows 11 taskbar. It shows current track metadata and album art, follows the
 taskbar position, and auto-hides when it should stay out of the way.

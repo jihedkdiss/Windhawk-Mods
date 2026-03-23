@@ -13,6 +13,10 @@
 /*
 # Taskbar Title Prefix Cleaner
 
+| Before | After |
+|--------|-------|
+| ![Before](https://raw.githubusercontent.com/jihedkdiss/Windhawk-Mods/refs/heads/main/taskbar-title-prefix-cleaner-before.png) | ![After](https://raw.githubusercontent.com/jihedkdiss/Windhawk-Mods/refs/heads/main/taskbar-title-prefix-cleaner-after.png) |
+
 Taskbar Title Prefix Cleaner trims noisy taskbar labels by keeping only the final
 segment of a title. It is designed for users who want compact labels like
 "z" instead of "x - y - z".
